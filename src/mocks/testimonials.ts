@@ -1,0 +1,38 @@
+export const testimonials = [
+  {
+    id: 1,
+    name: "Sophie M.",
+    role: "Paris 16ème",
+    rating: 5,
+    treatment: "Injection Acide Hyaluronique",
+    text: "Un résultat absolument naturel, mes lèvres sont sublimées sans excès. L'équipe de Magic Room est à l'écoute, professionnelle et rassurante. Je recommande à 100%.",
+    avatar: "https://readdy.ai/api/search-image?query=Portrait%20of%20elegant%20French%20woman%20in%20her%2030s%2C%20natural%20makeup%2C%20warm%20smile%2C%20soft%20warm%20lighting%2C%20clean%20white%20background%2C%20professional%20beauty%20photography%2C%20editorial%20style%2C%20subtle%20golden%20tones&width=200&height=200&seq=avatar1&orientation=squarish",
+  },
+  {
+    id: 2,
+    name: "Claire D.",
+    role: "Paris 8ème",
+    rating: 5,
+    treatment: "Toxine Botulique",
+    text: "Enfin un front lisse sans l'air figé ! Le Dr a parfaitement ciblé mes rides d'expression. Le cabinet est magnifique, l'accueil chaleureux. Une expérience premium.",
+    avatar: "https://readdy.ai/api/search-image?query=Portrait%20of%20elegant%20French%20woman%20in%20her%2040s%2C%20sophisticated%20look%2C%20warm%20smile%2C%20soft%20warm%20lighting%2C%20clean%20white%20background%2C%20professional%20beauty%20photography%2C%20editorial%20style%2C%20subtle%20golden%20tones&width=200&height=200&seq=avatar2&orientation=squarish",
+  },
+  {
+    id: 3,
+    name: "Marie L.",
+    role: "Neuilly-sur-Seine",
+    rating: 5,
+    treatment: "HIFU",
+    text: "Le HIFU a complètement redessiné mon ovale en quelques semaines. Aucune douleur, zéro temps d'arrêt. On m'a dit que j'avais l'air reposée, c'est exactement ce que je voulais.",
+    avatar: "https://readdy.ai/api/search-image?query=Portrait%20of%20elegant%20French%20woman%20in%20her%2050s%2C%20radiant%20skin%2C%20confident%20smile%2C%20soft%20warm%20lighting%2C%20clean%20white%20background%2C%20professional%20beauty%20photography%2C%20editorial%20style%2C%20subtle%20golden%20tones&width=200&height=200&seq=avatar3&orientation=squarish",
+  },
+  {
+    id: 4,
+    name: "Thomas R.",
+    role: "Paris 7ème",
+    rating: 5,
+    treatment: "Médecine Esthétique Homme",
+    text: "Je cherchais un cabinet discret et professionnel pour les hommes. Magic Room a dépassé mes attentes. Résultat naturel, personne ne devine que j'ai eu recours à la médecine esthétique.",
+    avatar: "https://readdy.ai/api/search-image?query=Portrait%20of%20confident%20French%20man%20in%20his%2040s%2C%20clean%20shaven%2C%20sophisticated%20look%2C%20soft%20warm%20lighting%2C%20clean%20white%20background%2C%20professional%20beauty%20photography%2C%20editorial%20style%2C%20subtle%20golden%20tones&width=200&height=200&seq=avatar4&orientation=squarish",
+  },
+];
